@@ -1,0 +1,18 @@
+﻿<Window x:Class="Onbreak2._0.ListadoContrato"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Onbreak2._0"
+        mc:Ignorable="d"
+        Title="ListadoContrato" Height="450" Width="800">
+    <Grid>
+        <DataGrid x:Name="dgListadoContrato" HorizontalAlignment="Left" Height="200" Margin="57,161,0,0" VerticalAlignment="Top" Width="672"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="698,10,0,0" VerticalAlignment="Top" Height="65" Width="84">
+            <Label.Background>
+                <ImageBrush ImageSource="imagenes/logo_transparent_background.png"/>
+            </Label.Background>
+        </Label>
+
+    </Grid>
+</Window>

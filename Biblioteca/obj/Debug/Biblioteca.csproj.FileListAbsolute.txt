@@ -1,0 +1,24 @@
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.pdb
+F:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\bin\Debug\Biblioteca.dll
+F:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\bin\Debug\Biblioteca.pdb
+F:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+F:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+F:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.dll
+F:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.pdb
+E:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\bin\Debug\Biblioteca.dll
+E:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\bin\Debug\Biblioteca.pdb
+E:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+E:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+E:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.dll
+E:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\bin\Debug\Biblioteca.dll
+D:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+D:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.dll
+D:\DEI 3101-003\SolucionOnbreak2.0\Biblioteca\obj\Debug\Biblioteca.pdb

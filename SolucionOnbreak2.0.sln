@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Onbreak2.0", "Onbreak2.0\Onbreak2.0.csproj", "{442C42F5-0104-4B74-91E4-B8088D6DC2FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{955F6B3E-0329-4DE0-A306-65A0D5E7F000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{442C42F5-0104-4B74-91E4-B8088D6DC2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442C42F5-0104-4B74-91E4-B8088D6DC2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442C42F5-0104-4B74-91E4-B8088D6DC2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442C42F5-0104-4B74-91E4-B8088D6DC2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955F6B3E-0329-4DE0-A306-65A0D5E7F000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955F6B3E-0329-4DE0-A306-65A0D5E7F000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955F6B3E-0329-4DE0-A306-65A0D5E7F000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{955F6B3E-0329-4DE0-A306-65A0D5E7F000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A5CA362-4E2C-45C5-AAD8-18733DC80CAC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,104 @@
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Onbreak2.0.exe.config
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Onbreak2.0.exe
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Onbreak2.0.pdb
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csprojAssemblyReference.cache
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmCliente.g.cs
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoCliente.g.cs
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\MainWindow.g.cs
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\App.g.cs
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0_MarkupCompile.cache
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0_MarkupCompile.lref
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmCliente.baml
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoCliente.baml
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\MainWindow.baml
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.g.resources
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2._0.Properties.Resources.resources
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csproj.GenerateResource.cache
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csproj.CoreCompileInputs.cache
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.exe
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.pdb
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Biblioteca.dll
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Biblioteca.pdb
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csproj.CopyComplete
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmContrato.g.cs
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoContrato.g.cs
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmContrato.baml
+C:\Users\jofas\source\repos\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoContrato.baml
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Onbreak2.0.exe.config
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Onbreak2.0.exe
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Onbreak2.0.pdb
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Biblioteca.dll
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Biblioteca.pdb
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csprojAssemblyReference.cache
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmCliente.g.cs
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmContrato.g.cs
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoCliente.g.cs
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoContrato.g.cs
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\MainWindow.g.cs
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\App.g.cs
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0_MarkupCompile.cache
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0_MarkupCompile.lref
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmCliente.baml
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmContrato.baml
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoCliente.baml
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoContrato.baml
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\MainWindow.baml
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.g.resources
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2._0.Properties.Resources.resources
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csproj.GenerateResource.cache
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csproj.CoreCompileInputs.cache
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csproj.CopyComplete
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.exe
+D:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.pdb
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Onbreak2.0.exe.config
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Onbreak2.0.exe
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Onbreak2.0.pdb
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Biblioteca.dll
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Biblioteca.pdb
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csprojAssemblyReference.cache
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmCliente.g.cs
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmContrato.g.cs
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoCliente.g.cs
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoContrato.g.cs
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\MainWindow.g.cs
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\App.g.cs
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0_MarkupCompile.cache
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0_MarkupCompile.lref
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmCliente.baml
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmContrato.baml
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoCliente.baml
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoContrato.baml
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\MainWindow.baml
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.g.resources
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2._0.Properties.Resources.resources
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csproj.GenerateResource.cache
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csproj.CoreCompileInputs.cache
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csproj.CopyComplete
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.exe
+F:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.pdb
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Onbreak2.0.exe.config
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Onbreak2.0.exe
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Onbreak2.0.pdb
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Biblioteca.dll
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\bin\Debug\Biblioteca.pdb
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csprojAssemblyReference.cache
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmCliente.g.cs
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmContrato.g.cs
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoCliente.g.cs
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoContrato.g.cs
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\MainWindow.g.cs
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\App.g.cs
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0_MarkupCompile.cache
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0_MarkupCompile.lref
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmCliente.baml
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\AdmContrato.baml
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoCliente.baml
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\ListadoContrato.baml
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\MainWindow.baml
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.g.resources
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2._0.Properties.Resources.resources
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csproj.GenerateResource.cache
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csproj.CoreCompileInputs.cache
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.csproj.CopyComplete
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.exe
+E:\DEI 3101-003\SolucionOnbreak2.0\Onbreak2.0\obj\Debug\Onbreak2.0.pdb
